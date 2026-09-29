@@ -1,0 +1,6 @@
+{
+  "name": "MG SHOPPING - Mode & Parfums Mauritanie",
+  "description": "Boutique en ligne de référence en Mauritanie pour vêtements homme et femme, chaussures, parfums, montres et accessoires. Paiement Bankily, Masravi, Seddad et livraison géolocalisée.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
